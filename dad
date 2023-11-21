@@ -3,30 +3,3 @@ Author: Santhosh <santhosh902576@gmail.com>
 Date:   Tue Nov 21 15:04:32 2023 +0530
 
     santhosh command
-
-[33mcommit 380e6383183520a31822e3072c0ab66510d05078[m
-Author: Santhosh <santhosh902576@gmail.com>
-Date:   Tue Nov 21 15:02:31 2023 +0530
-
-    Revert "Fully committed"
-    yes
-    :
-    This reverts commit 8509cc3578ee96df16ec300f700e4d2c7eeebb4c.
-
-[33mcommit 8509cc3578ee96df16ec300f700e4d2c7eeebb4c[m
-Author: Santhosh <santhosh902576@gmail.com>
-Date:   Tue Nov 21 14:40:58 2023 +0530
-
-    Fully committed
-
-[33mcommit 46920d3977bebc63cdb2aa313e012eda0bf6e620[m
-Author: Santhosh <santhosh902576@gmail.com>
-Date:   Tue Nov 21 13:01:37 2023 +0530
-
-    Modified the File1
-
-[33mcommit 2dadca5b37952b59ee715b9778dcc5d67388625b[m
-Author: Santhosh <santhosh902576@gmail.com>
-Date:   Tue Nov 21 12:50:14 2023 +0530
-
-    File 1 is will be editted soon...
